@@ -73,6 +73,18 @@ Data quality, modern architecture, data governance, RAG, synthetic data
 - [[RAG & Vector Databases 2026|RAG & Vector Databases]]
 - [[Synthetic Data 2026|Synthetic Data]]
 
+### 9. [[Key Analyses & Papers MOC|Key Analyses & Papers]]
+Landmark essays, reports, and keynotes by leading AI thinkers and institutions
+- [[Dario Amodei — Machines of Loving Grace]]
+- [[Sam Altman — The Gentle Singularity]]
+- [[Mustafa Suleyman — The Coming Wave]]
+- [[Satya Nadella — AI as Platform Shift]]
+- [[BCG — From Potential to Profit]]
+- [[McKinsey — State of AI 2025]]
+- [[Ethan Mollick — Co-Intelligence]]
+- [[Andrej Karpathy — The Decade of AI Agents]]
+- [[Jensen Huang — The AI Factory Era]]
+
 ---
 
 ## Cross-Topic Connections
@@ -90,6 +102,11 @@ Data Foundation ←→ Foundation Models (training data quality)
 Data Foundation ←→ AI Governance (data governance)
 Data Foundation ←→ Enterprise Adoption (data readiness)
 RAG & Vector DBs ←→ Agentic AI (contextual memory)
+Key Analyses ←→ Enterprise Adoption (McKinsey/BCG adoption data)
+Key Analyses ←→ Agentic AI (Karpathy's reliability critique)
+Key Analyses ←→ Workforce (Mollick's co-intelligence framework)
+Key Analyses ←→ Infrastructure (Huang's AI Factory vision)
+Key Analyses ←→ Governance (Suleyman's containment thesis)
 ```
 
 ---
