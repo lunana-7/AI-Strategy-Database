@@ -6,37 +6,19 @@
       {
         "id": "f2dc7c915fd7f350",
         "type": "tabs",
-        "dimension": 38.013698630136986,
         "children": [
           {
             "id": "fef1d9e9de3f33bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "230b5731e2ddd5d0",
-        "type": "tabs",
-        "dimension": 61.986301369863014,
-        "children": [
-          {
-            "id": "07a87a4459443eca",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Transformation 2026/AI Transformation 2026 MOC.md",
+                "file": "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Transformation 2026 MOC"
+              "title": "AI Data Foundation 2026"
             }
           }
         ]
@@ -112,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Transformation 2026/AI Transformation 2026 MOC.md",
+                "file": "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Transformation 2026 MOC"
+              "title": "Backlinks for AI Data Foundation 2026"
             }
           },
           {
@@ -131,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Transformation 2026/AI Transformation 2026 MOC.md",
+                "file": "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Transformation 2026 MOC"
+              "title": "Outgoing links from AI Data Foundation 2026"
             }
           },
           {
@@ -174,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Transformation 2026/AI Transformation 2026 MOC.md",
+                "file": "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Transformation 2026 MOC"
+              "title": "Outline of AI Data Foundation 2026"
             }
           }
         ]
@@ -201,34 +183,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "f4d53fdb45b5a5a7",
+  "active": "fef1d9e9de3f33bb",
   "lastOpenFiles": [
+    "AI Transformation 2026/Data Foundation/Data Governance for AI 2026.md",
+    "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
+    "AI Transformation 2026/Data Foundation/Data Architecture 2026.md",
+    "AI Transformation 2026/Data Foundation/Data Quality & Readiness 2026.md",
+    "AI Transformation 2026/Data Foundation/RAG & Vector Databases 2026.md",
     "AI Transformation 2026/Infrastructure & MLOps/AI Supply Chain 2026.md",
+    "AI Transformation 2026/Data Foundation/Synthetic Data 2026.md",
+    "AI Transformation 2026/Data Foundation",
+    "AI Transformation 2026/Agentic AI/Agentic AI 2026.md",
+    "AI Transformation 2026/Agentic AI/AI Agent Use Cases.md",
+    "AI Transformation 2026/Enterprise Adoption/AI ROI Measurement.md",
+    "AI Transformation 2026/Workforce & Reskilling/AI Talent Strategy 2026.md",
+    "AI Transformation 2026/AI Transformation 2026 MOC.md",
+    "AI Transformation 2026/Workforce & Reskilling/Workforce Transformation 2026.md",
     "AI Transformation 2026/Infrastructure & MLOps/MLOps 2026.md",
-    "AI Transformation 2026/Infrastructure & MLOps/GPU & Compute 2026.md",
-    "AI Transformation 2026/Infrastructure & MLOps/AI Infrastructure 2026.md",
     "AI Transformation 2026/Industry Verticals/Manufacturing AI 2026.md",
-    "AI Transformation 2026/Industry Verticals/Finance AI 2026.md",
     "AI Transformation 2026/Industry Verticals/Healthcare AI 2026.md",
-    "AI Transformation 2026/Industry Verticals/Industry AI Verticals 2026.md",
+    "AI Transformation 2026/Foundation Models/Reasoning Models 2026.md",
     "AI Transformation 2026/Foundation Models/LLM Taxonomy 2026.md",
     "AI Transformation 2026/Foundation Models/AI for Science 2026.md",
-    "AI Transformation 2026/Foundation Models/Reasoning Models 2026.md",
-    "AI Transformation 2026/Foundation Models/Foundation Models 2026.md",
-    "AI Transformation 2026/Workforce & Reskilling/AI Talent Strategy 2026.md",
-    "AI Transformation 2026/Workforce & Reskilling/Reskilling & Upskilling 2026.md",
-    "AI Transformation 2026/Workforce & Reskilling/Workforce Transformation 2026.md",
-    "AI Transformation 2026/Governance & Ethics/Responsible AI 2026.md",
-    "AI Transformation 2026/Governance & Ethics/EU AI Act 2026.md",
-    "AI Transformation 2026/Agentic AI/AI Agent Use Cases.md",
-    "AI Transformation 2026/AI Transformation 2026 MOC.md",
-    "AI Transformation 2026/Governance & Ethics/AI Governance 2026.md",
-    "AI Transformation 2026/Agentic AI/Multi-Agent Systems 2026.md",
-    "AI Transformation 2026/Agentic AI/Agentic AI 2026.md",
-    "AI Transformation 2026/Enterprise Adoption/AI Strategy 2026.md",
-    "AI Transformation 2026/Enterprise Adoption/Enterprise AI Use Cases.md",
-    "AI Transformation 2026/Enterprise Adoption/AI ROI Measurement.md",
     "AI Transformation 2026/Enterprise Adoption/Enterprise Adoption 2026.md",
+    "AI Transformation 2026/Industry Verticals/Industry AI Verticals 2026.md",
+    "AI Transformation 2026/Infrastructure & MLOps/GPU & Compute 2026.md",
+    "AI Transformation 2026/Infrastructure & MLOps/AI Infrastructure 2026.md",
+    "AI Transformation 2026/Industry Verticals/Finance AI 2026.md",
+    "AI Transformation 2026/Foundation Models/Foundation Models 2026.md",
+    "AI Transformation 2026/Workforce & Reskilling/Reskilling & Upskilling 2026.md",
     "AI Transformation 2026/Workforce & Reskilling",
     "AI Transformation 2026/Infrastructure & MLOps",
     "AI Transformation 2026/Industry Verticals",

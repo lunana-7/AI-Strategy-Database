@@ -2,7 +2,6 @@
 tags:
   - Agentic-AI
   - Agents
-  - "2026"
 parent: "[[AI Transformation 2026 MOC]]"
 created: 2026-04-01
 ---

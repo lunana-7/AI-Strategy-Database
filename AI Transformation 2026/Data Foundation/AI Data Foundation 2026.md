@@ -17,13 +17,13 @@ GenAI and [[Agentic AI 2026|Agentic AI]] require clean, secure, integrated, and 
 
 ## Key Metrics
 
-| Metric | Value |
-|--------|-------|
-| Organizations Achieving Data Readiness | 1 in 5 |
-| Companies Prioritizing Data Foundations (next 12mo) | 72% |
-| Companies Increasing Data Mgmt Investment | 86% |
-| Model Failure Reduction with Continuous Governance | 40% |
-| Data Architecture Market (2026) | $11.04B |
+| Metric                                              | Value   |
+| --------------------------------------------------- | ------- |
+| Organizations Achieving Data Readiness              | 1 in 5  |
+| Companies Prioritizing Data Foundations (next 12mo) | 72%     |
+| Companies Increasing Data Mgmt Investment           | 86%     |
+| Model Failure Reduction with Continuous Governance  | 40%     |
+| Data Architecture Market (2026)                     | $11.04B |
 
 ## Core Pillars
 

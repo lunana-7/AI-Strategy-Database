@@ -3,7 +3,6 @@ tags:
   - Infrastructure
   - Supply-Chain
   - HBM
-  - "2026"
 parent: "[[AI Infrastructure 2026]]"
 created: 2026-04-01
 ---

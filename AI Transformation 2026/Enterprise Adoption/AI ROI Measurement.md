@@ -39,6 +39,5 @@ Only **29%** of executives say they can measure AI ROI, suggesting that measurem
 - [[Industry AI Verticals 2026]] — ROI variation across industries
 
 ## Sources
-
 - [IBM — How to Maximize AI ROI 2026](https://www.ibm.com/think/insights/ai-roi)
 - [Deloitte — State of AI in Enterprise 2026](https://www.deloitte.com/global/en/issues/generative-ai/state-of-ai-in-enterprise.html)
