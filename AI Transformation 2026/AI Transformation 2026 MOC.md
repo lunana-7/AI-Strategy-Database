@@ -65,6 +65,14 @@ GPU/Compute, MLOps lifecycle, supply chain constraints
 - [[MLOps 2026|MLOps & Lifecycle]]
 - [[AI Supply Chain 2026|Supply Chain Constraints]]
 
+### 8. [[AI Data Foundation 2026|Data Foundation]]
+Data quality, modern architecture, data governance, RAG, synthetic data
+- [[Data Quality & Readiness 2026|Data Quality & Readiness]]
+- [[Data Architecture 2026|Modern Data Architecture]]
+- [[Data Governance for AI 2026|Data Governance for AI]]
+- [[RAG & Vector Databases 2026|RAG & Vector Databases]]
+- [[Synthetic Data 2026|Synthetic Data]]
+
 ---
 
 ## Cross-Topic Connections
@@ -78,6 +86,10 @@ Infrastructure ←→ Foundation Models (compute dependency)
 Agent Use Cases ←→ Finance AI (autonomous research)
 Agent Use Cases ←→ Manufacturing AI (process control)
 Responsible AI ←→ Workforce (ethics training)
+Data Foundation ←→ Foundation Models (training data quality)
+Data Foundation ←→ AI Governance (data governance)
+Data Foundation ←→ Enterprise Adoption (data readiness)
+RAG & Vector DBs ←→ Agentic AI (contextual memory)
 ```
 
 ---
