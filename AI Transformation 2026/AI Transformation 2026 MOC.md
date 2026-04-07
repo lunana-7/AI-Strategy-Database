@@ -95,6 +95,12 @@ Data quality, modern architecture, data governance, RAG, synthetic data
 
 ---
 
+## 📅 Events
+
+- [[AI Events 2026]] — Living tracker of AI conferences, summits, and keynotes worldwide (academic, enterprise, policy, big tech)
+
+---
+
 ## Cross-Topic Connections
 
 ```
