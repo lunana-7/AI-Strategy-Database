@@ -74,16 +74,24 @@ Data quality, modern architecture, data governance, RAG, synthetic data
 - [[Synthetic Data 2026|Synthetic Data]]
 
 ### 9. [[Key Analyses & Papers MOC|Key Analyses & Papers]]
-Landmark essays, reports, and keynotes by leading AI thinkers and institutions
+17 essential reads — landmark essays, reports, keynotes, and foundational research
+- [[Vaswani et al — Attention Is All You Need]] *(foundational)*
 - [[Dario Amodei — Machines of Loving Grace]]
 - [[Sam Altman — The Gentle Singularity]]
 - [[Mustafa Suleyman — The Coming Wave]]
 - [[Satya Nadella — AI as Platform Shift]]
-- [[BCG — From Potential to Profit]]
+- [[Yann LeCun — World Models and the Post-LLM Paradigm]]
+- [[Ilya Sutskever — Safe Superintelligence]]
 - [[McKinsey — State of AI 2025]]
+- [[BCG — From Potential to Profit]]
+- [[Deloitte — State of AI in the Enterprise 2026]]
+- [[Stanford HAI — AI Index Report 2025]]
+- [[WEF — AI Governance Alliance Playbook]]
 - [[Ethan Mollick — Co-Intelligence]]
 - [[Andrej Karpathy — The Decade of AI Agents]]
 - [[Jensen Huang — The AI Factory Era]]
+- [[Google DeepMind — Gemini and Frontier AI Research]]
+- [[Anthropic — Responsible Scaling Policy]]
 
 ---
 
