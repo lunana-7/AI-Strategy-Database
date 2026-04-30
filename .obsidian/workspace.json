@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
+                "file": "AI Transformation 2026/Enterprise Adoption/AI ROI Measurement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Data Foundation 2026"
+              "title": "AI ROI Measurement"
+            }
+          },
+          {
+            "id": "4d6eb864e9d327e6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
+                "file": "AI Transformation 2026/Enterprise Adoption/AI ROI Measurement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Data Foundation 2026"
+              "title": "Backlinks for AI ROI Measurement"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
+                "file": "AI Transformation 2026/Enterprise Adoption/AI ROI Measurement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Data Foundation 2026"
+              "title": "Outgoing links from AI ROI Measurement"
             }
           },
           {
@@ -156,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
+                "file": "AI Transformation 2026/Enterprise Adoption/AI ROI Measurement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Data Foundation 2026"
+              "title": "Outline of AI ROI Measurement"
             }
           }
         ]
@@ -183,36 +196,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "fef1d9e9de3f33bb",
+  "active": "4d6eb864e9d327e6",
   "lastOpenFiles": [
-    "AI Transformation 2026/Key Analyses & Papers/Jensen Huang — The AI Factory Era.md",
-    "AI Transformation 2026/Key Analyses & Papers/Andrej Karpathy — The Decade of AI Agents.md",
-    "AI Transformation 2026/Key Analyses & Papers/Ethan Mollick — Co-Intelligence.md",
-    "AI Transformation 2026/Key Analyses & Papers/McKinsey — State of AI 2025.md",
-    "AI Transformation 2026/Key Analyses & Papers/BCG — From Potential to Profit.md",
-    "AI Transformation 2026/Key Analyses & Papers/Satya Nadella — AI as Platform Shift.md",
-    "AI Transformation 2026/Key Analyses & Papers/Mustafa Suleyman — The Coming Wave.md",
-    "AI Transformation 2026/Key Analyses & Papers/Sam Altman — The Gentle Singularity.md",
-    "AI Transformation 2026/Key Analyses & Papers/Dario Amodei — Machines of Loving Grace.md",
-    "AI Transformation 2026/Key Analyses & Papers/Key Analyses & Papers MOC.md",
-    "AI Transformation 2026/Key Analyses & Papers",
-    "AI Transformation 2026/Data Foundation/Data Governance for AI 2026.md",
-    "AI Transformation 2026/Data Foundation/AI Data Foundation 2026.md",
-    "AI Transformation 2026/Data Foundation/Data Architecture 2026.md",
-    "AI Transformation 2026/Data Foundation/Data Quality & Readiness 2026.md",
-    "AI Transformation 2026/Data Foundation/RAG & Vector Databases 2026.md",
-    "AI Transformation 2026/Infrastructure & MLOps/AI Supply Chain 2026.md",
-    "AI Transformation 2026/Data Foundation/Synthetic Data 2026.md",
-    "AI Transformation 2026/Data Foundation",
-    "AI Transformation 2026/Agentic AI/Agentic AI 2026.md",
-    "AI Transformation 2026/Agentic AI/AI Agent Use Cases.md",
+    "AI Transformation 2026/Enterprise Adoption/Enterprise AI Use Cases.md",
+    "AI Transformation 2026/AI Events 2026.md",
+    "AI Transformation 2026/Enterprise Adoption/Enterprise Adoption 2026.md",
     "AI Transformation 2026/Enterprise Adoption/AI ROI Measurement.md",
+    "AI Transformation 2026/Key Analyses & Papers/Dario Amodei — Machines of Loving Grace.md",
+    "AI Transformation 2026/Key Analyses & Papers/McKinsey — State of AI 2025.md",
+    "AI Transformation 2026/Key Analyses & Papers/Stanford HAI — AI Index Report 2025.md",
+    "AI Transformation 2026/Key Analyses & Papers/Vaswani et al — Attention Is All You Need.md",
+    "AI Transformation 2026/Key Analyses & Papers/WEF — AI Governance Alliance Playbook.md",
+    "AI Transformation 2026/Key Analyses & Papers/Yann LeCun — World Models and the Post-LLM Paradigm.md",
+    "AI Transformation 2026/Agentic AI/Multi-Agent Systems 2026.md",
+    "AI Transformation 2026/Key Analyses & Papers/Google DeepMind — Gemini and Frontier AI Research.md",
+    "AI Transformation 2026/Key Analyses & Papers/Ilya Sutskever — Safe Superintelligence.md",
+    "AI Transformation 2026/Key Analyses & Papers/Anthropic — Responsible Scaling Policy.md",
+    "AI Transformation 2026/Key Analyses & Papers/Deloitte — State of AI in the Enterprise 2026.md",
+    "AI Transformation 2026/Agentic AI/AI Agent Use Cases.md",
+    "AI Transformation 2026/Data Foundation/Data Governance for AI 2026.md",
     "AI Transformation 2026/Workforce & Reskilling/AI Talent Strategy 2026.md",
-    "AI Transformation 2026/AI Transformation 2026 MOC.md",
-    "AI Transformation 2026/Workforce & Reskilling/Workforce Transformation 2026.md",
-    "AI Transformation 2026/Infrastructure & MLOps/MLOps 2026.md",
-    "AI Transformation 2026/Industry Verticals/Manufacturing AI 2026.md",
-    "AI Transformation 2026/Industry Verticals/Healthcare AI 2026.md",
+    "AI Transformation 2026/Key Analyses & Papers/Jensen Huang — The AI Factory Era.md",
+    "AI Transformation 2026/Key Analyses & Papers/Ethan Mollick — Co-Intelligence.md",
+    "AI Transformation 2026/Key Analyses & Papers/Key Analyses & Papers MOC.md",
+    "AI Transformation 2026/Key Analyses & Papers/Andrej Karpathy — The Decade of AI Agents.md",
+    "AI Transformation 2026/Key Analyses & Papers/BCG — From Potential to Profit.md",
+    "AI Transformation 2026/Foundation Models/LLM Taxonomy 2026.md",
+    "AI Transformation 2026/Industry Verticals/Finance AI 2026.md",
+    "AI Transformation 2026/Enterprise Adoption/AI Strategy 2026.md",
+    "AI Transformation 2026/Key Analyses & Papers",
+    "AI Transformation 2026/Data Foundation",
     "AI Transformation 2026/Workforce & Reskilling",
     "AI Transformation 2026/Infrastructure & MLOps",
     "AI Transformation 2026/Industry Verticals",

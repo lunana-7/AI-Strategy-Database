@@ -2,7 +2,6 @@
 tags:
   - Enterprise
   - Use-Cases
-  - "2026"
 parent: "[[Enterprise Adoption 2026]]"
 created: 2026-04-01
 ---
